@@ -1,0 +1,1 @@
+This is the custom 3d model exported from Blender.
